@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /tmp/
 
 wget -c https://kernel.ubuntu.com/~kernel-ppa/mainline/v5.8/amd64/linux-headers-5.8.0-050800_5.8.0-050800.202008022230_all.deb
